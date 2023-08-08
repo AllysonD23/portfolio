@@ -15,3 +15,14 @@ Thanks for checking out my portfolio.
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
+
+ ## Overview
+
+### The goal
+
+Users should be able to:
+
+- View my past project experience
+- Find my contact information
+- Contact me via a form
+- View the optimal layout for the page depending on their device's screen size
