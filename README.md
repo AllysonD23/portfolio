@@ -26,3 +26,11 @@ Users should be able to:
 - Find my contact information
 - Contact me via a form
 - View the optimal layout for the page depending on their device's screen size
+
+### Screenshot
+
+[Add screeshot here]
+
+### Links
+
+- Live Site URL: [Add live site URL here](https://secretninja11.github.io/frontend-mentor-huddle-landing-page/)
