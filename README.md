@@ -48,4 +48,8 @@ Users should be able to:
 ### What I learned
 
 - Setup git version history
-- Create a GitHub repository
+- Create a GitHub 
+
+### Continued development
+
+This is where I will share any updates or plan for continuing development on my portfolio.
