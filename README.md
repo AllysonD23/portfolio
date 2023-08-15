@@ -58,3 +58,7 @@ This is where I will share any updates or plan for continuing development on my 
 
 - [The Odin Project](https://www.theodinproject.com/) - This helped me get started on my Front-End journey. I highly recommend it as resource to learn the fundamentals.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+
+## Author
+
+- Website - [AllysonD23](https://www.your-site.com)
